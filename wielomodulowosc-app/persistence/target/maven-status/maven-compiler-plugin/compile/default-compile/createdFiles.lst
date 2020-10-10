@@ -1,0 +1,6 @@
+com\app\persistence\exception\JsonConverterException.class
+com\app\persistence\model\Car.class
+com\app\persistence\converters\JsonConverter.class
+com\app\persistence\model\enums\Color.class
+com\app\persistence\converters\JsonCarsConverter.class
+com\app\persistence\model\Car$CarBuilder.class

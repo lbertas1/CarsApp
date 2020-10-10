@@ -1,0 +1,182 @@
+[
+  {
+    "model": "BMW",
+    "price": 120,
+    "color": "BLACK",
+    "mileage": 1500,
+    "components": [
+      "ABS",
+      "ALLOY WHEELS"
+    ]
+  },
+  {
+    "model": "MAZDA",
+    "price": 160,
+    "color": "WHITE",
+    "mileage": 2500,
+    "components": [
+      "AIR CONDITIONING",
+      "BLUETOOTH"
+    ]
+  },
+  {
+    "model": "OPEL",
+    "price": 100,
+    "color": "SILVER",
+    "mileage": 4500,
+    "components": [
+      "AIR CONDITIONING",
+      "BLUETOOTH"
+    ]
+  },
+  {
+    "model": "MAZDA",
+    "price": 180,
+    "color": "BLACK",
+    "mileage": 3500,
+    "components": [
+      "AIR CONDITIONING",
+      "BLUETOOTH",
+      "NAVIGATION"
+    ]
+  },
+  {
+    "model": "VOLVO",
+    "price": 200,
+    "color": "BLACK",
+    "mileage": 500,
+    "components": [
+      "AIR CONDITIONING",
+      "BLUETOOTH",
+      "ABS",
+      "NAVIGATION"
+    ]
+  },
+  {
+    "model": "FIAT",
+    "price": 20,
+    "color": "WHITE",
+    "mileage": 222500,
+    "components": [
+      "AIR CONDITIONING"
+    ]
+  },
+  {
+    "model": "FORD",
+    "price": 120,
+    "color": "SILVER",
+    "mileage": 42500,
+    "components": [
+      "AIR CONDITIONING",
+      "BLUETOOTH",
+      "MP3"
+    ]
+  },
+  {
+    "model": "BUGATTI",
+    "price": 1160,
+    "color": "BLACK",
+    "mileage": 500,
+    "components": [
+      "AIR CONDITIONING",
+      "BLUETOOTH",
+      "MP3",
+      "BLUETOOTH"
+    ]
+  },
+  {
+    "model": "SKODA",
+    "price": 60,
+    "color": "WHITE",
+    "mileage": 22500,
+    "components": [
+      "AIR CONDITIONING",
+      "BLUETOOTH"
+    ]
+  },
+  {
+    "model": "TOYOTA",
+    "price": 150,
+    "color": "SILVER",
+    "mileage": 2500,
+    "components": [
+      "AIR CONDITIONING",
+      "BLUETOOTH",
+      "MP3"
+    ]
+  },
+  {
+    "model": "MERCEDES",
+    "price": 200,
+    "color": "SILVER",
+    "mileage": 2500,
+    "components": [
+      "AIR CONDITIONING",
+      "BLUETOOTH"
+    ]
+  },
+  {
+    "model": "BMW",
+    "price": 220,
+    "color": "BLACK",
+    "mileage": 5500,
+    "components": [
+      "AIR CONDITIONING",
+      "BLUETOOTH",
+      "NAVIGATION"
+    ]
+  },
+  {
+    "model": "SUBARU",
+    "price": 190,
+    "color": "SILVER",
+    "mileage": 22500,
+    "components": [
+      "AIR CONDITIONING",
+      "BLUETOOTH",
+      "ABS"
+    ]
+  },
+  {
+    "model": "HONDA",
+    "price": 140,
+    "color": "WHITE",
+    "mileage": 22500,
+    "components": [
+      "AIR CONDITIONING"
+    ]
+  },
+  {
+    "model": "DODGE",
+    "price": 280,
+    "color": "BLACK",
+    "mileage": 2500,
+    "components": [
+      "AIR CONDITIONING",
+      "BLUETOOTH",
+      "MP3",
+      "NAVIGATION",
+      "ABS"
+    ]
+  },
+  {
+    "model": "MITSUBISHI",
+    "price": 100,
+    "color": "WHITE",
+    "mileage": 62500,
+    "components": [
+      "AIR CONDITIONING",
+      "BLUETOOTH"
+    ]
+  },
+  {
+    "model": "CITROEN",
+    "price": 110,
+    "color": "SILVER",
+    "mileage": 52500,
+    "components": [
+      "AIR CONDITIONING",
+      "ABS"
+    ]
+  }
+]

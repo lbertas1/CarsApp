@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ui" />
+        <module name="persistence" />
+        <module name="service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="persistence" target="14" />
+      <module name="service" target="14" />
+      <module name="ui" target="14" />
+      <module name="wielomodulowosc-app" target="14" />
+      <module name="wielomodulowosc-app (1)" target="14" />
+      <module name="wielomodulowosc-app (2)" target="14" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="persistence" options="--enable-preview" />
+      <module name="service" options="--enable-preview" />
+      <module name="ui" options="--enable-preview" />
+    </option>
+  </component>
+</project>

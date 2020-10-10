@@ -1,0 +1,5 @@
+C:\KMPrograms\07_MultimoduleApp\wielomodulowosc-app\persistence\src\main\java\com\app\persistence\model\Car.java
+C:\KMPrograms\07_MultimoduleApp\wielomodulowosc-app\persistence\src\main\java\com\app\persistence\model\enums\Color.java
+C:\KMPrograms\07_MultimoduleApp\wielomodulowosc-app\persistence\src\main\java\com\app\persistence\exception\JsonConverterException.java
+C:\KMPrograms\07_MultimoduleApp\wielomodulowosc-app\persistence\src\main\java\com\app\persistence\converters\JsonConverter.java
+C:\KMPrograms\07_MultimoduleApp\wielomodulowosc-app\persistence\src\main\java\com\app\persistence\converters\JsonCarsConverter.java
